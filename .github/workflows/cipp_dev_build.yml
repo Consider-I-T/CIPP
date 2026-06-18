@@ -1,9 +1,6 @@
 name: CIPP Frontend Dev Build
 
 on:
-  push:
-    branches:
-      - dev
   workflow_dispatch:
 
 jobs:
